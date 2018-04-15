@@ -1,2 +1,2 @@
 # IIIT-workshop
-Simple repo for IIIT workshop
+Sample repo for IIIT workshop
